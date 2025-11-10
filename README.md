@@ -18,7 +18,7 @@ This project aims to explore how quantitative modeling and AI can enhance crypto
 ---
 
 ## 🧩 Project Structure
-
+```
 BTC-Predict-/
 │
 ├── data/                   # Historical Bitcoin market data (CSV or fetched via API)
